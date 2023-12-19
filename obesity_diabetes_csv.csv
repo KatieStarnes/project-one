@@ -1283,3 +1283,4 @@ Year,LocationName,DataSource,Category,Measure,Data_Value_Unit,Data_Value_Type,Da
 2021,74965,BRFSS,Health Outcomes,Obesity among adults aged >=18 years,%,Crude prevalence,43.1,,,35.3,51.8,5170,POINT (-94.58289225 35.97503202),74965,HLTHOUT,OBESITY,CrdPrv,Obesity
 2021,74966,BRFSS,Health Outcomes,Diagnosed diabetes among adults aged >=18 years,%,Crude prevalence,13.6,,,11.7,15.6,3719,POINT (-94.9062445 34.87493629),74966,HLTHOUT,DIABETES,CrdPrv,Diabetes
 2021,74966,BRFSS,Health Outcomes,Obesity among adults aged >=18 years,%,Crude prevalence,41.4,,,34.1,49,3719,POINT (-94.9062445 34.87493629),74966,HLTHOUT,OBESITY,CrdPrv,Obesity
+
