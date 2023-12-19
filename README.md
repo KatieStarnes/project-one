@@ -22,4 +22,5 @@ In this project, we aimed to investigate possible factors that impact the obesit
 In the end we discovered that each of the questions we analyzed does in fact contribute to the obesity rate in some way; each member in the group proved this point through the maps, graphs and statistical tests.
 
 Within the files themselves you can see that each question has its own notebook associated with it. Angie worked on ‘Grocery Access vs Obesity’, Cassidy worked on ‘fastfood_vs_obesity’, Katie worked on ‘Transportation Access vs Obesity’, and Stephanie worked on income vs obesity (named ‘project1.ipynb’).
-
+Income and Zip Code Data:
+https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-zip-code-data-soi
