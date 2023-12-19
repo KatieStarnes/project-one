@@ -1,0 +1,51 @@
+﻿Angie Foust, , Stephanie Rathod, Cassidy Simmons, Katie Starnes
+
+
+OBESITY, INCOME AND  FOOD  ACCESS
+
+
+
+
+In this project, we aimed to investigate possible factors that impact the obesity rate in Oklahoma. We were interested in income, access to grocery stores (hoping to see a relationship to “food deserts”), access to fast food, and available transportation. Through a comprehensive exploration of these possible relationships, we aspire to contribute valuable insights that can inform policies and interventions aimed at addressing public health challenges associated with socio-economic disparities and nutritional access.
+
+
+Question 1: How does income affect the chances of developing obesity?
+
+
+Scatter plot of income vs. obesity rate. Most of the points are skewed right and are below an average income of $50,000, and above an obesity rate of 35%.
+
+
+Question 2: How does proximity to grocery stores impact obesity?
+This exploration of data shows there is likely a relationship between the number of grocery stores accessible (within 5 miles) and the obesity rate. However, this aspect of the project has several limitations including:
+
+
+* Rural areas may likely be farming/ranching communities who do not rely heavily on store bought goods. 
+
+
+* GeoApify may not have included smaller mom & pop stores more common in smaller towns, or other stores that carry grocery items.
+
+
+* The variety of items at the grocery stores was not looked at and could have an impact on obesity rates. (i.e. Sprouts vs. Dollar General)
+
+
+
+
+Question 3: How does the number of fast food restaurants in a given area impact obesity?
+
+
+Through the analysis I have conducted it is clear that the number of fast food restaurants and obesity rate is connected in some way, perhaps not the way I had initially assumed though.
+
+
+This project has brought up several other questions that we could explore and dig deeper with to get a clearer idea on other potential causes: 
+* What types of fast food are people consuming the most in certain areas? 
+* Would people be willing to drive further for their favorite fast food rather than the grocery store? 
+* How often are people eating out rather than at home? 
+* How do more rural areas impact the dataset?
+
+
+
+
+Question 4: Does access to public transportation affect accessibility obesity?
+
+
+It appears that there is a minimal correlation between obesity rates and access to public transportation. The calculated R-squared value, which measures the proportion of the variance in one variable that is predictable from another, stands at a mere 0.12. This low R-squared value suggests that only a small fraction of the variability in obesity rates can be explained by access to public transportation. Thus, it seems that other factors beyond transportation accessibility play a larger role in influencing obesity rates.
